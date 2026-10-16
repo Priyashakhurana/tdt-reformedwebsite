@@ -552,8 +552,8 @@ addEventListener('scroll', () => $('#nav').classList.toggle('solid', scrollY > 4
     if (!/^\S+@\S+\.\S+$/.test(em.value)) { note.className = 'form-note mono'; note.textContent = 'Enter a work email so we know where to send your audit.'; em.focus(); return; }
     const stage = $('#stage').value === 'Company stage' ? '' : $('#stage').value;
     const body = encodeURIComponent(`Work email: ${em.value}\nCompany stage: ${stage}\n\nI'd like a free Reddit × LinkedIn audit.`);
-    note.className = 'form-ok'; note.textContent = 'Opening your email app. If nothing opens, write to hello@thedriptheory.com.';
-    window.location.href = `mailto:hello@thedriptheory.com?subject=${encodeURIComponent('Free audit request')}&body=${body}`;
+    note.className = 'form-ok'; note.textContent = 'Opening your email app. If nothing opens, write to coffee@thedriptheory.com.';
+    window.location.href = `mailto:coffee@thedriptheory.com?subject=${encodeURIComponent('Free audit request')}&body=${body}`;
   });
 })();
 })();

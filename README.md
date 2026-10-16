@@ -16,5 +16,5 @@ python3 -m http.server 8080
 
 ## Before launch
 
-- If you move to a custom domain, replace `https://priyashakhurana.github.io/tdt-reformedwebsite/` in `index.html`, `robots.txt`, `sitemap.xml` and `llms.txt`.
-- Connect the audit form in `assets/main.js` to your inbox or CRM.
+- Domain: www.thedriptheory.com (set in `CNAME`).
+- The audit form opens an email to coffee@thedriptheory.com. Swap in a form service or CRM in `assets/main.js` if needed.

@@ -2,8 +2,8 @@
 
 > The Drip Theory is a Reddit and LinkedIn marketing agency for B2B SaaS companies. We find the problems a company's ideal customers post about on Reddit, answer them in the right subreddits as the founder, and turn those conversations into LinkedIn posts that build inbound pipeline.
 
-Website: https://priyashakhurana.github.io/tdt-reformedwebsite/
-Contact: hello@thedriptheory.com
+Website: https://www.thedriptheory.com/
+Contact: coffee@thedriptheory.com
 
 ## Who it is for
 - B2B SaaS founders who sell to a clear ideal customer profile (ICP)

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://priyashakhurana.github.io/tdt-reformedwebsite/sitemap.xml
+Sitemap: https://www.thedriptheory.com/sitemap.xml

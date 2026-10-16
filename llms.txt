@@ -1,0 +1,44 @@
+# The Drip Theory
+
+> The Drip Theory is a Reddit and LinkedIn marketing agency for B2B SaaS companies. We find the problems a company's ideal customers post about on Reddit, answer them in the right subreddits as the founder, and turn those conversations into LinkedIn posts that build inbound pipeline.
+
+Website: https://priyashakhurana.github.io/tdt-reformedwebsite/
+Contact: hello@thedriptheory.com
+
+## Who it is for
+- B2B SaaS founders who sell to a clear ideal customer profile (ICP)
+- Teams that want inbound demand from Reddit and LinkedIn instead of paid ads
+
+## How it works
+1. Figure out the ICP: who buys and what they complain about.
+2. Find the threads: map the subreddits and recurring threads where buyers ask for help.
+3. Talk as the founder: daily Reddit replies, LinkedIn posts and comments in the founder's voice.
+4. One profile, one view: everything runs through one founder profile and one weekly report.
+
+## Services
+- Reddit presence: daily replies, weekly threads and reputation monitoring in the subreddits the ICP reads.
+- LinkedIn content: three founder posts a week, built from real buyer questions found on Reddit.
+- LinkedIn engagement: daily comments on posts by people in the ICP.
+- ICP research: ICP profile, subreddit map, pain-point library and competitor mentions.
+- AMAs and launches: planned AMAs and launch threads for a one-day spike on top of daily activity.
+- Competitor intelligence: monthly report on what users say about competing tools on Reddit.
+
+## Why Reddit and LinkedIn
+- Reddit had 130.3 million daily active uniques in Q2 2026, up 18% year over year (Reddit Q2 2026 results).
+- Reddit is the most-cited domain in AI search answers; one Semrush sample found 40.1% of citations pointed to Reddit (Semrush, 2025).
+- Google and OpenAI both have data agreements with Reddit (2024).
+- LinkedIn reported 1.2 billion members (LinkedIn, Microsoft FY25 Q4).
+- 73% of B2B decision-makers say thought leadership is a more trustworthy basis for judging a company than its marketing materials (Edelman × LinkedIn, 2024).
+
+## FAQ
+- Will this get us banned on Reddit? No fake accounts or vote manipulation. Every reply follows the subreddit's rules and leads with a useful answer.
+- Do you post from our accounts? Yes, through the founder's own profile, after the founder approves the voice.
+- How are results reported? A weekly report: threads joined, replies, rankings, impressions, profile visits, DMs and demos booked.
+- What happens on the first call? A free 30-minute audit and a list of ten threads the company could join that week.
+
+## Sources
+- Reddit Q2 2026 results: https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000098/earningspressreleaseq226.htm
+- Semrush Reddit AI-search study: https://www.semrush.com/blog/reddit-ai-search-visibility-study/
+- OpenAI and Reddit partnership: https://openai.com/index/openai-and-reddit-partnership/
+- LinkedIn FY25 Q4 highlights: https://news.linkedin.com/2025/Q4FY25_Earnings_Highlights
+- Edelman × LinkedIn B2B Thought Leadership Report: https://www.edelman.com/insights/thought-leadership-gets-b2b-buyers-back-into-game
